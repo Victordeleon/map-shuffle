@@ -1,5 +1,5 @@
 {
-  "name"  : "Obra pública abierta",
+  "name"  : "Obra Pública Abierta",
   "type"  : "point",
   "multiple" : true,
   "disable" : [0,0],
@@ -30,9 +30,7 @@
     {"type" : "unit", "field" : "id_unidad"},
     {"type" : "year", "field" : "ciclo", "title" : "Ciclo"}
   ],
-  "extraFilters" : [
-    {"type" : "extra", "field" : "classification", "title" : "Clasificación ciudadana"}
-  ],
+  "extraFilters" : [],
   "graphs" : {
     "graph1" : {
       "title" : "Monto total invertido por año",
